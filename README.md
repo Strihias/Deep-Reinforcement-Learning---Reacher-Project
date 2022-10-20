@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Learning---Reacher-Project
+# Deep-Reinforcement-Learning---Continuous Control - Reacher
 
 This project is completed as a part of the [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893 "Google's Homepage") from [Udacity](https://www.udacity.com/). 
 
