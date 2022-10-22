@@ -37,6 +37,7 @@ We also use Replay Buffer.
 Using the aforementioned architecture and hyperparameters we were able to solve the environment in 108 episodes scoring above 30.0. 
 
 We can see the performance of the model in the following diagram: 
+
 ![alt text](https://github.com/Strihias/Deep-Reinforcement-Learning---Reacher-Project/blob/main/diagram.jpg "Performance Diagram")
 
 ## Future Work
